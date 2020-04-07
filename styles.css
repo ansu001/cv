@@ -3,55 +3,110 @@ body {
   text-align: center;
 }
 .top-container {
-  background-color: #F1F1F1;
+  background-color: #EAF6F6;
+  padding-top: 100px;
   position: relative;
-  padding: 100px;
 }
-h1 {
-margin-top: 0;
-font-family: 'Sacramento', cursive;
-}
-p {
-  font-family: 'Assistant', sans-serif;
-}
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 980px;
-}
-.top-cloud{
+.top-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
 }
-.unique {
-  display: inline;
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
-.bottom-header {
-  background-color: grey;
+h1 {
+  font-size: 4.625rem;
+  color: #66BFBF;
+  margin: 30px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+.unique {
+  font-size: 2.5rem;
+  color: #66BFBF;
+  margin: 30px auto 30px auto;
+  font-family: 'Nunito', sans-serif;
+}
+p {
+  font-family: 'Nunito', sans-serif;
+}
+.skills {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-image {
+  width: 30%;
+  float: left;
+  margin-right: 50px;
+}
+h3 {
+  color: #66BFBF;
+}
+.introduce {
+  width: 30%;
+  margin: 50px auto 50px auto;
+  line-height: 2;
+  text-align: center;
 }
 .mypic {
-  height: 5%;
-  width: 30%;
+  width: 45%;
+}
+h2 {
+  color: #66BFBF;
+  margin-bottom: 30px;
+  font-size: 2rem;
+  font-family: 'Nunito', sans-serif;
+}
+.h-skills {
+  color: #66BFBF;
+  text-align: center;
+  font-size: 2rem;
+  padding-bottom: 20px;
+  font-family: 'Nunito', sans-serif;
 }
 hr {
   border-style: dotted none none;
-  border-color: grey;
   border-width: 5px;
-  width: 5%;
+  width: 3%;
+  color: #66BFBF;
 }
-.education {
-  margin-top: 50px;
-  font-family: 'Assistant', sans-serif;
-  text-decoration: underline;
+.chilli-image {
+  width: 30%;
+  float: right;
+  margin-left: 35px;
 }
-.skills {
-  margin-top: 50px;
-  font-family: 'Assistant', sans-serif;
-  text-decoration: underline;
+.chilli {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+  padding-top: 100px;
+  padding-bottom: 50px;
 }
-.hobbies {
-  margin-top: 50px;
-  font-family: 'Assistant', sans-serif;
-  text-decoration: underline;
+.hot-wings-h3 {
+  color: #11999E;
+  font-family: 'Nunito', sans-serif;
+}
+.skills-h3 {
+  color: #11999E;
+  font-family: 'Nunito', sans-serif;
+}
+.touch {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  line-height: 2;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 35%
+}
+.h-contact {
+  margin: 0;
+  line-height: 2;
+  color: white;
+  background-color: #11999E;
+  font-family: 'Nunito', sans-serif;
 }
