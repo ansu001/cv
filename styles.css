@@ -15,7 +15,7 @@ body {
 .bottom-cloud {
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 50px;
 }
 h1 {
   font-size: 4.625rem;
@@ -39,7 +39,7 @@ p {
   line-height: 2;
 }
 .code-image {
-  width: 30%;
+  width: 25%;
   float: left;
   margin-right: 50px;
 }
@@ -75,7 +75,7 @@ hr {
   color: #66BFBF;
 }
 .chilli-image {
-  width: 30%;
+  width: 25%;
   float: right;
   margin-left: 35px;
 }
